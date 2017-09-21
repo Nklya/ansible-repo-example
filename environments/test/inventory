@@ -1,0 +1,2 @@
+[test]
+some_host ansible_host=35.90.200.111

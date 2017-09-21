@@ -1,0 +1,5 @@
+.vagrant
+*.retry
+.ansible-retry
+.DS_Store
+vault.key
