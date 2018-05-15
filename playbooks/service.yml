@@ -1,0 +1,7 @@
+---
+- name: Execute Service layer roles
+  hosts: all
+  become: true
+  roles:
+    - geerlingguy.docker
+    # - anotherservicerole

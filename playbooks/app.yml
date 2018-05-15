@@ -1,0 +1,7 @@
+---
+- name: Execute App layer roles
+  hosts: all
+  become: true
+  roles:
+    # - approle
+    # - anotherapprole

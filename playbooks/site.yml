@@ -1,0 +1,4 @@
+---
+- include: base.yml
+- include: service.yml
+- include: app.yml

@@ -1,2 +1,5 @@
 ---
-example: 123
+# geerlingguy.docker variables
+docker_edition: 'ce'
+docker_install_compose: True
+docker_compose_version: "1.21.1"
